@@ -1,2 +1,2 @@
 # Algorithms
-1. LinkedList
+1. LinkedList-intersected
